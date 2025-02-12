@@ -8,7 +8,7 @@ I have used **placeholder images** in the collection view cells since I do not h
 
 Additionally, the image retrieval is restricted, as seen in the attached error message:
 
-![Access Denied]([Access Denied.png](https://postimg.cc/bG1Zwsgb))
+[Access Denied.png](https://postimg.cc/bG1Zwsgb)
 
 ## Fonts
 Fonts will be **integrated into the production code** to ensure a consistent UI/UX.
@@ -21,6 +21,21 @@ The **SideViewController** was implemented **programmatically** instead of using
 
 ## Unit Tests
 Unit tests are included to verify functionality. I considered implementing **UI tests**, including **UI snapshot testing**, but determined that it would be **overkill** for this project.
+
+## Mock Networking
+Created a **Mock Networking** system for testing. 
+
+## Test Coverage
+I have added **4 tests** to keep development time minimal, as I wanted to submit the project as soon as possible.
+
+## Colors in Assets
+I added **colors into the assets** because I find it cleaner that way. 
+
+## Real-Life Scenario Adjustments
+In a real-life scenario, I would have access to the **color codes and sizes**, making the design more accurate.
+
+## Accessibility Testing
+Tested with **Accessibility Inspector** to ensure usability and compliance with accessibility standards.
 
 ## Future Improvements
 - Integration of real assets for images.
